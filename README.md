@@ -1,2 +1,2 @@
-# cumcounter
-A Python bot that listen to you and keeps track of how many times you say "cum"
+# VoiceRecog
+A Python tool that performs different tasks based on commands given through voice recognition.
